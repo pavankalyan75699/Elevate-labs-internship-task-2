@@ -19,5 +19,5 @@ Create a persistent CLI-based task manager that allows users to add, remove, and
 
 - Python
 - VS Code / Terminal
->> And finally add the terminal output for better understanding of the output and their functionality.
+>> And finally add the  screenshot of the terminal output for better understanding of the output and their functionality.
 
